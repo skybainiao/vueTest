@@ -7,7 +7,7 @@
     </p>
     <h3>Sweet Moments</h3>
     <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">Photos</a></li>
+      <li><a href="./components/Moments.vue" target="_blank" rel="noopener">Photos</a></li>
 
     </ul>
     <h3>Chen Links</h3>
@@ -28,6 +28,7 @@
     </ul>
   </div>
 </template>
+
 
 <script>
 export default {

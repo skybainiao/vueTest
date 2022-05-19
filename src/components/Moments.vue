@@ -1,7 +1,9 @@
 <template>
 <div>
 
-<img src="">  </img>
+
+<p>dwahiodahwoifhoaifa</p>
+<img src="WeChat Image_20220408133019.jpg">  </img>
 
 
 

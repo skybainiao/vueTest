@@ -7,7 +7,7 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-
+import Moments from './components/Moments.vue'
 export default {
   name: 'App',
   components: {
