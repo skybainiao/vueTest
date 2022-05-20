@@ -7,7 +7,8 @@
     </p>
     <h3>Sweet Moments</h3>
     <ul>
-      <li><a href="./components/Moments.vue" target="_blank" rel="noopener">Photos</a></li>
+
+      <a href="./src/components/Moments.vue">Photos</a>
 
     </ul>
     <h3>Chen Links</h3>
