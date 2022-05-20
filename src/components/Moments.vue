@@ -1,20 +1,9 @@
 <template>
-<div>
+<div class="mwz">
 
 
-<p>dwahiodahwoifhoaifa</p>
-<img src="WeChat Image_20220408133019.jpg">  </img>
-
-
-
-
-
-
-
-
-
-
-
+<p class="p1">dwahiodahwoifhoaifa</p>
+<img src="WeChat Image_20220408133019.jpg"></img>
 
 
 
@@ -22,10 +11,13 @@
 </template>
 
 <script>
-export default {
-  name: 'HelloWorld',
-  props: {
-    message: String
-  }
-}
+
+
 </script>
+
+<style scoped>
+.p1{
+  color: red;
+}
+</style>
+
