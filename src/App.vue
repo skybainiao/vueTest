@@ -27,8 +27,7 @@ export default {
 }
 
 .ig {
-  height:400px;
- 
-
+  height:300px;
+  margin-bottom:0px;
 }
 </style>
