@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="https://p.kindpng.com/picc/s/343-3433067_transparent-sanrio-png-cinnamoroll-png-download.png">
+    <img alt="Vue logo" src="https://www.meishujixun.com/uploads/03ce09f04af9c2d5b82e79fd41318af5.jpg">
     <HelloWorld message="Chen&Wan blog"/>
   </div>
 </template>
